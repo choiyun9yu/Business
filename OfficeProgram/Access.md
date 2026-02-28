@@ -71,7 +71,6 @@
 - 데이터 타입 마다 필드 속성은 다를 수 있음
 - 입력 마스크
   <img width="525" height="304" alt="image" src="https://github.com/user-attachments/assets/26f4c62c-416b-4040-bd9f-0d94d9f447da" />
-- 
 
 
 ### 3-2. 관계 설정
